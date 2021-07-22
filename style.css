@@ -1,0 +1,12 @@
+.main{
+    margin: auto;
+}
+.table{
+    margin: auto;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+    height: 50px;
+    width: 200px;
+    text-align: left;
+  }
